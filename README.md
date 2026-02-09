@@ -1,4 +1,4 @@
-Este proyecto es gestionado por Zsolt Alberto y KAitor, como responsable del tratamiento.
+Este proyecto es gestionado por Zsolt Alberto Kaitor, como responsable del tratamiento.
 
 NeoAndal es un proyecto en desarrollo orientado a la gestión de citas en clínicas.
 El sistema permite el envío de recordatorios de citas por SMS, WhatsApp y llamadas
